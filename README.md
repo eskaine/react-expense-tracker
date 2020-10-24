@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Simple frontend application, enpense tracking
+Simple frontend application, expense tracking
 
 ## Techstack
 - React
